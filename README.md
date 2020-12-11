@@ -21,9 +21,7 @@ Features should be developed on branches. To create and switch to a branch, use 
 
 `git checkout -b new_branch_name`
 
-To switch to an existing branch, use
-
-`git checkout branch_name`
+To submit your feature to incorporated into the master bracn, you should submit a `Pull Request`. The repository maintainers will review your pull request before accepting your changes.
 
 ### Copyright
 
